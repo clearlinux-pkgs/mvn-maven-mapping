@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-mapping
 Version  : 3.0.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/apache/maven-mapping/archive/maven-mapping-3.0.0.tar.gz
 Source0  : https://github.com/apache/maven-mapping/archive/maven-mapping-3.0.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.jar
